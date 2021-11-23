@@ -3,6 +3,6 @@ description: "Réécriture de l'apparence du site de badgeage à AG2R La Mondial
 topics: []
 homepage: ""
 source:
-  provider: gitlab
+  provider: github
   namespace: "sachahjkl"
   path: "sachahjkl/kelio-rewrite"
