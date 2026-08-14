@@ -1,5 +1,3 @@
-[English](README.md) | [Français](README.fr.md)
-
 # kelio-rewrite
 
 # Private Redesign of the AG2R La Mondiale Time-Tracking Website
