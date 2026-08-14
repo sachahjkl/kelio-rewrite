@@ -1,0 +1,13 @@
+{
+  "name": "kelio-rewrite",
+  "private": true,
+  "scripts": {
+    "lint": "oxlint script.js",
+    "format": "oxfmt --write .",
+    "format:check": "oxfmt --check ."
+  },
+  "devDependencies": {
+    "oxfmt": "latest",
+    "oxlint": "latest"
+  }
+}
