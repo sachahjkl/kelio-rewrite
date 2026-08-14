@@ -81,7 +81,7 @@ async function main() {
   const messageBadgeage = document.createElement("p");
   messageBadgeage.classList.add("mt-2");
   if (messageBadgeageOld) {
-    messageBadgeage.innerHTML = messageBadgeageOld.innerHTML;
+    messageBadgeage.textContent = messageBadgeageOld.textContent;
   }
 
   const old = document.body.querySelectorAll("*");
